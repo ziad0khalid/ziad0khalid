@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 مرحبًا، أنا Ziad Khalid
 
-<!--
-**ziad0khalid/ziad0khalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+مطور برمجيات شامل، أعمل على تطوير تطبيقات الويب، الموبايل، والذكاء الاصطناعي.  
+أسعى دائمًا لتعلم الجديد وبناء حلول فعالة وعملية.
 
-Here are some ideas to get you started:
+### 💻 المهارات
+- 💡 اللغات: Python, JavaScript, C++, Java, Dart, PHP
+- 🧰 التقنيات: React, Node.js, Flutter, Django, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 تواصل معي
+- Facebook: [Ziad Khaled](https://www.facebook.com/people/Ziad-Khaled/61576706139645)
+- 📍 الموقع: مصر
+- 📧 البريد: zaye.dhalyed5702@gmail.com
+
+### 🚀 متاح للتوظيف
+إذا كان لديك فرصة عمل أو مشروع، يسعدني التعاون معك!
+
+---
+
+شكراً لزيارتك لصفحتي!
